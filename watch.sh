@@ -1,0 +1,1 @@
+nodemon --watch . --ext go --exec go run . --signal SIGTERM
